@@ -16,7 +16,8 @@ Installation
 ### mac
 
 ```
-$ git clone 
+$ git clone git@github.com:okbm/vagrant-sunzi-standard.git 
+$ cd vagrant-sunzi-standard
 $ vagrant up --provision
 $ cd sunzi
 $ sunzi deploy localhost:2222
