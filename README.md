@@ -30,8 +30,6 @@ $ sunzi deploy localhost:2222
 $ git clone https://github.com/okbm/dotfiles.git
 $ cd dotfiles
 $ sh bootstrap.sh
-$ cd 
-$ source .bashrc
 $ vim
 $ :NerBundleInstall
 ```
