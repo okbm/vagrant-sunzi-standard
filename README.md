@@ -16,7 +16,7 @@ Installation
 ### mac
 
 ```
-$ git clone git@github.com:okbm/vagrant-sunzi-standard.git 
+$ git clone https://github.com/okbm/vagrant-sunzi-standard.git
 $ cd vagrant-sunzi-standard
 $ vagrant up --provision
 $ cd sunzi
@@ -27,8 +27,11 @@ $ sunzi deploy localhost:2222
 ### virutal box
 
 ```
+$ git clone https://github.com/okbm/dotfiles.git
 $ cd dotfiles
 $ sh bootstrap.sh
+$ cd 
+$ source .bashrc
 $ vim
 $ :NerBundleInstall
 ```
