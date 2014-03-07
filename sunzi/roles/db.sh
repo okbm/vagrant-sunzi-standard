@@ -8,3 +8,4 @@
 #mysql -uroot < tmp
 #rm tmp
 
+apt-get -y install mongodb
