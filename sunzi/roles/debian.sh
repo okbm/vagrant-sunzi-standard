@@ -13,3 +13,5 @@ apt-get install -y g++
 apt-get install -y checkinstall
 
 chmod 755 -R /var/log/apache2
+
+localedef -f UTF-8 -i ja_JP ja_JP

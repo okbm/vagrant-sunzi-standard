@@ -1,10 +1,5 @@
 # uniq setup
 
-# MySQL init setup
-#echo 'CREATE DATABASE *** DEFAULT CHARACTER SET utf8;' > tmp
-#mysql -uroot < tmp
-#rm tmp
-
 cat << EOF > /home/vagrant/readme.md
 # vagrant setup
 ## dotfiles

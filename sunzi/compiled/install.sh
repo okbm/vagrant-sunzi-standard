@@ -29,5 +29,6 @@ source roles/debian.sh
 source roles/web.sh
 source roles/db.sh
 source roles/setup.sh
+source roles/javascript.sh
 
 echo "veiw readme.md!!!"
